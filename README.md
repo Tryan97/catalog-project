@@ -1,3 +1,3 @@
 # catalog-project
-![catalog image](./image/catalog.png)
+![catalog image](image/catalog.png)
 
